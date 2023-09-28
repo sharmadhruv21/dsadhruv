@@ -1,2 +1,2 @@
 # dsadhruv
-This is my first ublic repo
+This is my first public repo
