@@ -1,2 +1,2 @@
 # dsadhruv
-This is my first public repo <br> by dhruv
+This is my first public repo <br> by dhruv sharma
